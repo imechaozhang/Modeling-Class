@@ -7,8 +7,8 @@ The three coding homework in the Modeling class
 
 2-2. Molecular dynamics with Lenord Jonnes potential for 3-D gas. Pressure, RDF and MSD are calculated.
 
-3-1. Path integral MD for a single atom in a simple potential. 
+final-1. Path integral MD for a single atom in a simple potential. 
 
-3-2. Path integarl metadynamics for a single atom in a simple potential.
+final-2. Path integarl metadynamics for a single atom in a simple potential.
 
-and 2 code files for ramdon number generation.
+and 2 code files for ramdon number generation, which are used in the other codes.
